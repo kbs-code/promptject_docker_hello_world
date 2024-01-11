@@ -11,5 +11,5 @@ Issues:
 4. nginx was not required to get the app running since express used it's own web server.
 
 Summary:
-This was my first docker project where I was exposed to every stage of the SDLC up to Deployment.  It took about a day from idea to deployment.  Please feel free to audit my code and provide feedback.
+This was my first docker project where I was exposed to every stage of the SDLC up to Deployment.  It took about a day from idea to deployment.  Please feel free to audit my code and provide feedback.  The link to the image on Dockerhub is [here](https://hub.docker.com/r/kmdocker02/express_hello_world).
 
