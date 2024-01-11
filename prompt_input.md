@@ -1,0 +1,1 @@
+I want to learn Docker and by doing a beginner friendly project using Node.js.  Please generate this project for me.  The requirements for this project should be as specific as possible.
