@@ -6,7 +6,7 @@ Issues:
 3. Initially, I could not push my docker image to the docker hub.  This was due to a combination of:
   - Not tagging the image correctly
   - Not creating a repository for my image on hub.docker.com
-  - Not logging in to docker hub from my terminal
+  - Not logging in to docker hub from my terminal.
 [This](https://docs.docker.com/get-started/04_sharing_app/) link solved a lot of my issues
 4. nginx was not required to get the app running since express used it's own web server.
 
